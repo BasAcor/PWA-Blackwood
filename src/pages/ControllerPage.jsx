@@ -4,7 +4,7 @@ import {
   createActionCommand,
   createEndTurnCommand,
   createMoveCommand,
-} from '../utils/commandFactory'
+} from '../utils/CommandFactory'
 import { getCommandQueue, getTransportStatus, sendCommand } from '../services/mockTransport'
 
 const initialGameState = {

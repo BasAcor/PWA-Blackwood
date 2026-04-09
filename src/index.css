@@ -18,3 +18,15 @@ body {
     radial-gradient(circle at top, rgba(130, 18, 18, 0.35), transparent 40%),
     linear-gradient(180deg, #220707 0%, #120404 100%);
 }
+
+.font-cinzel {
+  font-family: 'Cinzel', serif;
+}
+
+.font-marcellus {
+  font-family: 'Marcellus', serif;
+}
+
+.font-cormorant {
+  font-family: 'Cormorant Garamond', serif;
+}
